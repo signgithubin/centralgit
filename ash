@@ -1,4 +1,4 @@
-About 13,40,000 results (0.52 seconds) 
+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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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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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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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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About 13,40,000 results (0.52 seconds) 
 The Java heap space in hive is set to a default value of 1024 MB. This is fine for relatively small data and non-intensive queries, but once you start dealing with larger tables and more complex queries, the default value is not enough.28-Jun-2017
 
 Increase Heap size for hive query - Stack Overflowhttps://stackoverflow.com › questions › increase-heap-size...
